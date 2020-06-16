@@ -1,4 +1,4 @@
-# AB Testing With SQL
+# A/B Testing With SQL
 
 ## Introduction
 - We would like to test whether a change of the layout of item pages will affect item orders/views.
