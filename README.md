@@ -4,6 +4,7 @@
 - We would like to test whether a change of the layout of item pages will affect item orders/views.
 - An experiment was run at an item-level. All users who visit will see the same page, but the layout of different item pages may differ.
 - For test assignments, 0 = control and 1 = treatment.
+- Testing was limited for `test_number` = 'item_test_2' in this project.
 
 ## Metrics
 - Two metrics were used:
